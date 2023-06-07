@@ -25,7 +25,7 @@ This is a my solution to the [Space tourism website challenge on Frontend Mentor
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add a live site URL here](https://p4bloxx.github.io/Space-Tourism-Agency/)
+- Live Site URL: [Live site](https://p4bloxx.github.io/Space-Tourism-Agency/)
 
 ## My process
 
